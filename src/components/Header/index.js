@@ -1,5 +1,5 @@
 import React from 'react'
-import NextLink from 'next/Link'
+import NextLink from 'next/link'
 import Link from '@material-ui/core/Link'
 import Grid from '@material-ui/core/Grid'
 import Typography from '@material-ui/core/Typography'
